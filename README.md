@@ -1,5 +1,5 @@
 # Led-Matrix-8x64-
-This project is about displaying message receive from computer (UART) on led matrix. 
+This project is about displaying message which is received from computer (UART) on led matrix. 
 
 List of components: ATmega16, Dot matrix 8x8, 74595, Max232, Transistor B562
 
