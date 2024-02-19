@@ -1,0 +1,14 @@
+C:\Users\phuoc\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\phuoc\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\phuoc\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\phuoc\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\phuoc\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\phuoc\source\repos\WindowsFormsApp3\bin\Debug\GTMT.exe.config
+C:\Users\phuoc\source\repos\WindowsFormsApp3\bin\Debug\GTMT.exe.manifest
+C:\Users\phuoc\source\repos\WindowsFormsApp3\bin\Debug\GTMT.application
+C:\Users\phuoc\source\repos\WindowsFormsApp3\bin\Debug\GTMT.exe
+C:\Users\phuoc\source\repos\WindowsFormsApp3\bin\Debug\GTMT.pdb
+C:\Users\phuoc\source\repos\WindowsFormsApp3\obj\Debug\GTMT.exe.manifest
+C:\Users\phuoc\source\repos\WindowsFormsApp3\obj\Debug\GTMT.application
+C:\Users\phuoc\source\repos\WindowsFormsApp3\obj\Debug\GTMT.exe
+C:\Users\phuoc\source\repos\WindowsFormsApp3\obj\Debug\GTMT.pdb
